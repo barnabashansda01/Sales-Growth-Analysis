@@ -72,7 +72,8 @@ Sales-Growth-Analysis/
 - Standardized inconsistent date formats across the dataset
 - Derived profit and time-based metrics for trend analysis
 - Built a structured MySQL data store for repeatable querying and reporting
-
+  
 ## License
 
 MIT
+Dashboard - <img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/da27bf80-cc13-44b2-8cf8-dfad0a1423ca" />
