@@ -1,0 +1,14 @@
+# Generated / processed data
+data/sales_cleaned.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+*.env
+
+# OS
+.DS_Store
